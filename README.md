@@ -1,1 +1,14 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerialLain3170&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# Present Day, Present Time...
+
+## Where you can contact me
+
+- Email: crosssceneofwindff@gmail.com
+- Twitter: [@NieA7_3170(ja)](https://twitter.com/NieA7_3170), [@Crie_functional(en)](https://twitter.com/Crie_functional)
+
+## Who are you?
+
+- machine learning researcher @Fujitsu Research of America: [google scholar](https://scholar.google.com/citations?user=tzKL43UAAAAJ&hl=en)
+- writer: [medium(ja)](https://medium.com/@crosssceneofwindff), [HP(en)](https://seriallain3170.github.io/)
+- composer: [Soundcloud](https://soundcloud.com/lento-3)
+- traveler: [flickr](https://www.flickr.com/photos/197623303@N08/)
+- reader: [Bookmeter(ja)](https://bookmeter.com/users/1378090)
