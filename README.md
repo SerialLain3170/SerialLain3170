@@ -5,7 +5,7 @@
 - Email: crosssceneofwindff@gmail.com
 - Twitter: [@NieA7_3170(ja)](https://twitter.com/NieA7_3170), [@Crie_functional(en)](https://twitter.com/Crie_functional)
 
-## Who are you?
+## Who am I?
 
 - machine learning researcher @Fujitsu Research of America: [google scholar](https://scholar.google.com/citations?user=tzKL43UAAAAJ&hl=en)
 - writer: [medium(ja)](https://medium.com/@crosssceneofwindff), [HP(en)](https://seriallain3170.github.io/)
